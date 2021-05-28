@@ -31,7 +31,7 @@ In the end, connect the two motors at the two ends of L298N
 
 
 How to Run the Program
-First of all, copy and paste the Arduino code at the end of this project in Arduino IDE and upload the code.
+First of all, copy and paste the Arduino code in Arduino IDE and upload the code.
 Then download the sketch from the example page of wekinator.
 Download the executable file for MFCCs (mel-frequency cepstral coefficients).
 
@@ -49,7 +49,7 @@ After downloading, unzip it and run the “.exe” file. It will look like as sh
 
 
 
-You will need another sketch to get the output from Wekinator. This sketch is given at the end of this project. Paste it into the new processing window and run the sketch.
+You will need another sketch to get the output from Wekinator (processing sketch). Paste it into the new processing window and run the sketch.
 Open the Wekinator and make the settings as shown in the figure below. Set the inputs to 13 and the outputs to 1. Set the type to “All Dynamic time warping” with 5 gesture types and click on “next”.
 
 Now hold the “+” button in front of output_1 and say “forward”.
